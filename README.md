@@ -1,2 +1,7 @@
 # suryaprakash
 Database project
+customeridtable
+producttabledata
+productpricingtable
+salestable
+salesdetails
